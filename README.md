@@ -1,2 +1,2 @@
 # hackathon-
-firt git repository
+My first git repository
